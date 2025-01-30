@@ -1,0 +1,1 @@
+Version control is imporant as it allows for multiple people to work on projects at once and lets people make changes without making them permanent. It also allows for files to be stored in more than one place. It also lets people see where mistakes were made and correct them. It lets people review their changes and double check them.
